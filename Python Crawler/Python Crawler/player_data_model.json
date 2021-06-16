@@ -1,0 +1,134 @@
+{
+  "player_name": "",
+  "player_id": "",
+  "clan": "",
+  "cc": false,
+  "player_random_battles_data": {
+    "battles" : 0,
+    "win_rate": 0.0,
+    "personal_rating": 0,
+    "battles_survived": 0.0,
+    "average_info": {
+      "damage": 0,
+      "destroyed_warships": 0.0,
+      "aircraft_destroyed": 0.0,
+      "experience": 0,
+      "kills_death": 0.0,
+      "warships_spotted": 0.0,
+      "damage_upon_spotting": 0,
+      "tier": 0.0
+    },
+    "ship_type_data": {
+      "dd": {
+        "battles": 0,
+        "win_rate": 0.0,
+        "personal_rating": 0,
+        "avg_flags": 0.0,
+        "avg_dmg": 0,
+        "avg_planes_destroyed": 0.0,
+        "max_flags": {
+          "number": 0,
+          "ship": ""
+        },
+        "max_dmg": {
+          "number": 0,
+          "ship": ""
+        },
+        "max_planes": {
+          "number": 0,
+          "ship": ""
+        }
+      },
+      "cv": {
+        "battles": 0,
+        "win_rate": 0.0,
+        "personal_rating": 0,
+        "avg_flags": 0.0,
+        "avg_dmg": 0,
+        "avg_planes_destroyed": 0.0,
+        "max_flags": {
+          "number": 0,
+          "ship": ""
+        },
+        "max_dmg": {
+          "number": 0,
+          "ship": ""
+        },
+        "max_planes": {
+          "number": 0,
+          "ship": ""
+        }
+      },
+      "bb": {
+        "battles": 0,
+        "win_rate": 0.0,
+        "personal_rating": 0,
+        "avg_flags": 0.0,
+        "avg_dmg": 0,
+        "avg_planes_destroyed": 0.0,
+        "max_flags": {
+          "number": 0,
+          "ship": ""
+        },
+        "max_dmg": {
+          "number": 0,
+          "ship": ""
+        },
+        "max_planes": {
+          "number": 0,
+          "ship": ""
+        }
+      },
+      "ca": {
+        "battles": 0,
+        "win_rate": 0.0,
+        "personal_rating": 0,
+        "avg_flags": 0.0,
+        "avg_dmg": 0,
+        "avg_planes_destroyed": 0.0,
+        "max_flags": {
+          "number": 0,
+          "ship": ""
+        },
+        "max_dmg": {
+          "number": 0,
+          "ship": ""
+        },
+        "max_planes": {
+          "number": 0,
+          "ship": ""
+        }
+      }
+    }
+  },
+  "random_battles_2019": {
+    "jan": 0,
+    "feb": 0,
+    "mar": 0,
+    "apr": 0,
+    "may": 0,
+    "jun": 0,
+    "jul": 0,
+    "aug": 0,
+    "sep": 0,
+    "oct": 0,
+    "nov": 0,
+    "dec": 0
+  },
+  "all_battles_2019": {
+    "jan": 0,
+    "feb": 0,
+    "mar": 0,
+    "apr": 0,
+    "may": 0,
+    "jun": 0,
+    "jul": 0,
+    "aug": 0,
+    "sep": 0,
+    "oct": 0,
+    "nov": 0,
+    "dec": 0
+  },
+
+
+}

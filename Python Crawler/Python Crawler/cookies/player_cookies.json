@@ -1,0 +1,13 @@
+{
+  "Request Cookies": {
+    "__cfduid": "df37fe4007b372819a959f1e3ab2c29a11578519937",
+    "_ga": "GA1.2.508553176.1578519944",
+    "_gat": "1",
+    "_gid": "GA1.2.1856374587.1578519944",
+    "_hjid": "007e329d-7d1a-4d25-b3d0-facfe992687e",
+    "_hjMinimizedPolls": "28445",
+    "apiConsent": "1",
+    "PHPSESSID": "gjr0dtveiep1lqeukvdu5t70bs",
+    "shipsFilter5": "{\"types\":{\"air_carrier\":true,\"destroyer\":true,\"battleship\":true,\"cruiser\":true},\"tier\":[1,10],\"minimumBattles\":1}"
+  }
+}

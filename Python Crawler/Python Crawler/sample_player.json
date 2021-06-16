@@ -1,0 +1,169 @@
+{
+    "overall_stats": {
+        "battles": 5,
+        "win_rate": 100.0,
+        "personal_rating": 4044,
+        "battles_survived": 80.0,
+        "avg_battle_values": {
+            "avg_dmg": 108275,
+            "avg_frags": 2.2,
+            "avg_shoot_down": 6.0,
+            "avg_exp": 2775,
+            "avg_kd": 11.0,
+            "avg_spot": 0.2,
+            "avg_spot_dmg": 9013,
+            "avg_tier": 7.0
+        }
+    },
+    "ship_type_stats": [
+        {
+            "type": "Cruiser",
+            "battles": 5,
+            "win_rate": 1.0,
+            "personal_rating": 4044,
+            "avg_frags": 2.2,
+            "avg_dmg": 108275,
+            "avg_shoot_down": 6.0,
+            "max_frags": {
+                "max_frags_number": 4,
+                "max_frags_ship": "Belfast"
+            },
+            "max_dmg": {
+                "max_dmg_number": 135137,
+                "max_dmg_ship": "Belfast"
+            },
+            "max_shoot_down": {
+                "max_shoot_down_number": 13,
+                "max_shoot_down_ship": "Belfast"
+            }
+        }
+    ],
+    "ship_tier_stats": [
+        {
+            "tier": "VII",
+            "battles": 5,
+            "win_rate": 1.0,
+            "personal_rating": 4044,
+            "avg_frags": 2.2,
+            "avg_dmg": 108275,
+            "avg_shoot_down": 6.0,
+            "max_frags": {
+                "max_frags_number": 4,
+                "max_frags_ship": "Belfast"
+            },
+            "max_dmg": {
+                "max_dmg_number": 135137,
+                "max_dmg_ship": "Belfast"
+            },
+            "max_shoot_down": {
+                "max_shoot_down_number": 13,
+                "max_shoot_down_ship": "Belfast"
+            }
+        }
+    ],
+    "weapons_stats": [
+        {
+            "weapon_type": "Main Battery",
+            "total_frags": 9,
+            "hit_radio": 0.4366,
+            "max_kills": {
+                "max_kills_num": 4,
+                "max_kills_ship": "Belfast"
+            }
+        },
+        {
+            "weapon_type": "Secondary battery",
+            "total_frags": 0,
+            "hit_radio": 0.0909,
+            "max_kills": {
+                "max_kills_num": 0,
+                "max_kills_ship": ""
+            }
+        },
+        {
+            "weapon_type": "Torpedoes",
+            "total_frags": 0,
+            "hit_radio": 0,
+            "max_kills": {
+                "max_kills_num": 0,
+                "max_kills_ship": ""
+            }
+        },
+        {
+            "weapon_type": "Aircraft",
+            "total_frags": 0,
+            "hit_radio": 0,
+            "max_kills": {
+                "max_kills_num": 0,
+                "max_kills_ship": ""
+            }
+        },
+        {
+            "weapon_type": "By ramming",
+            "total_frags": 0,
+            "hit_radio": 0,
+            "max_kills": {
+                "max_kills_num": 0,
+                "max_kills_ship": ""
+            }
+        }
+    ],
+    "records": [
+        {
+            "type": "Damage",
+            "record": {
+                "record_num": 135137,
+                "record_ship": "Belfast"
+            }
+        },
+        {
+            "type": "Destroyed warships",
+            "record": {
+                "record_num": 4,
+                "record_ship": "Belfast"
+            }
+        },
+        {
+            "type": "Experience",
+            "record": {
+                "record_num": 3317,
+                "record_ship": "Belfast"
+            }
+        },
+        {
+            "type": "Aircraft Destroyed",
+            "record": {
+                "record_num": 13,
+                "record_ship": "Belfast"
+            }
+        },
+        {
+            "type": "Warships spotted",
+            "record": {
+                "record_num": 1,
+                "record_ship": "Belfast"
+            }
+        },
+        {
+            "type": "Damage upon spotting",
+            "record": {
+                "record_num": 27577,
+                "record_ship": "Belfast"
+            }
+        }
+    ],
+    "important_moment": null,
+    "online_history": {
+        "12.2019": 0
+    },
+    "ship_stats": [
+        {
+            "ship_name": "Belfast",
+            "total_battle": 5,
+            "win_rate": 100,
+            "avg_dmg": 108275,
+            "avg_frags": 2.2,
+            "avg_plane_kills": 6
+        }
+    ]
+}
